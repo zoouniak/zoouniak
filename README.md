@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*^^*깃꾸 진행 중 입니다*^^*
+*^^*깃꾸 진행 중 입니다*^^*   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jueun1025)](https://solved.ac/jueun1025)
  <img src="http://mazandi.herokuapp.com/api?handle=jueun1025&theme=warm"/>
