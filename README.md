@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+하루하루는 성실하게 인생 전체는 되는대로...
 <!--
 **zoouniak/zoouniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jueun1025)](https://solved.ac/jueun1025)
- <img src="http://mazandi.herokuapp.com/api?handle=jueun1025&theme=warm"/>
+
