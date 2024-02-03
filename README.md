@@ -1,5 +1,8 @@
 ### Hi there 👋
-하루하루는 성실하게 인생 전체는 되는대로...
+하루하루는 성실하게 인생 전체는 되는대로...   
+
+[포트폴리오](http://veil-flute-dae.notion.site/a845b03e1085401fb3a971d515b275fc?pvs=74)
+
 <!--
 **zoouniak/zoouniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
