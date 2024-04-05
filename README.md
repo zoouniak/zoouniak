@@ -8,6 +8,7 @@
 > 🇰🇷  Daegu, South Korea
 > 
 > 📞  010-4108-5088
+> 
 > 📧  jueun1025@naver.com
 > 
 
