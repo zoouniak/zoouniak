@@ -20,8 +20,6 @@
 
 비즈니스 문제를 코드로 해결하는 개발자가 되고 싶습니다.
 
-[포트폴리오](https://planet-kryptops-f44.notion.site/92caffbddb64457282be91a2191a38d7?pvs=4)
-
 <!--
 **zoouniak/zoouniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
