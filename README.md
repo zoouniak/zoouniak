@@ -2,7 +2,7 @@
 하루하루는 성실하게 인생 전체는 되는대로...   
 ### 안녕하세요 ,
 
-> 🎂  2002.10.25 (만 21세)
+> 🎂  2002.10.25 (만 22세)
 > 
 > 
 > 🇰🇷  Daegu, South Korea
@@ -34,6 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jueun1025)](https://solved.ac/jueun1025)
-
